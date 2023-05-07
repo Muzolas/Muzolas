@@ -38,18 +38,14 @@
 
 <br clear="both">
 
-# Stats:
+# Statistics:
+
 <img align="left" height="330" src="https://i.pinimg.com/originals/c9/91/72/c99172c17b83d3c620b997858351b2a5.gif"  />
 
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Muzolas&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="175" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muzolas&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true" height="170" alt="languages graph"  />
 </div>
-
-
-
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Muzolas&icon=9&color=3)](https://visitcount.itsvg.in)
