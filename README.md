@@ -39,15 +39,13 @@
 <br clear="both">
 
 # Stats:
-<div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/74pZ" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
-
-
-
+<img align="left" height="400" src="[https://i.gifer.com/74pZ.gif](https://i.gifer.com/74pZ.gif)"  />
 
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Muzolas&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="175" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muzolas&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true" height="170" alt="languages graph"  />
 </div>
+
 
 
 
