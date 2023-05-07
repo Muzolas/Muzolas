@@ -1,12 +1,8 @@
 # About Me:
 
-<img align="right" height="140" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJlODU5MTNkNzlmZjFkMGJiNTI0NjBlYmZhNDhhNmFiYjMwMzZhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif"  />
-
-
+<img align="right" height="140" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJlODU5MTNkNzlmZjFkMGJiNTI0NjBlYmZhNDhhNmFiYjMwMzZhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif"/>
 
 <h2 align="left">I’m currently a student.<br>I’m looking for support for a project and internship.<br>I’m currently learning JAVA.</h2>
-
-
 
 #  Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
