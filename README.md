@@ -39,22 +39,17 @@
 <br clear="both">
 
 # Stats:
-<img align="left" height="400" src="https://i.gifer.com/74pZ.gif"  />
+<img align="left" height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJlODU5MTNkNzlmZjFkMGJiNTI0NjBlYmZhNDhhNmFiYjMwMzZhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif"  />
 
-###
 
-<div align="center">
-<img align="left" height="400" src="[[https://i.gifer.com/74pZ.gif](https://i.gifer.com/74pZ.gif)](https://i.gifer.com/75ez.gif)"  />
-
-###
 
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Muzolas&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="175" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muzolas&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true" height="170" alt="languages graph"  />
 </div>
 
-###
-###
+
+
 
 
 ---
