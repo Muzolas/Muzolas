@@ -1,5 +1,5 @@
 # About Me:
- I’m currently a student.<br> I’m looking for support for a project and internship.<br> I’m currently learning C, JAVA, PHYTON.<br><br>
+ I’m currently a student.<br> I’m looking for support for a project and internship.<br> I’m currently learning JAVA.<br><br>
 
 
 #  Tech Stack:
