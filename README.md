@@ -39,7 +39,7 @@
 <br clear="both">
 
 # Stats:
-<img align="left" height="350" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F374784000232817518%2F&psig=AOvVaw0vtWErUMDnHbbzUDJncKP8&ust=1683587807638000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPi_3bur5P4CFQAAAAAdAAAAABAE"  />
+<img align="left" height="350" src="https://i.pinimg.com/originals/c9/91/72/c99172c17b83d3c620b997858351b2a5.gif"  />
 
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Muzolas&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="175" alt="stats graph" /> <br>
