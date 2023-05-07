@@ -22,11 +22,7 @@
   </a>
 </div>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Muzolas/Muzolas/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 ---
