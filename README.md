@@ -44,7 +44,7 @@
 ###
 
 <div align="center">
-<img align="left" height="400" src="[https://i.gifer.com/74pZ.gif](https://i.gifer.com/74pZ.gif)"  />
+<img align="left" height="300" src="[https://i.gifer.com/74pZ.gif](https://i.gifer.com/74pZ.gif)"  />
 
 ###
 
