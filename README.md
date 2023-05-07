@@ -39,7 +39,7 @@
 <br clear="both">
 
 # Stats:
-<img align="left" height="400" src="[https://i.gifer.com/74pZ.gif](https://i.gifer.com/74pZ.gif)"  />
+<img align="left" height="400" src="[[https://i.gifer.com/74pZ.gif](https://i.gifer.com/74pZ.gif)](https://i.gifer.com/75ez.gif)"  />
 
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Muzolas&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="175" alt="stats graph" /> <br>
