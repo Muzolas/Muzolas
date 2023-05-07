@@ -39,7 +39,8 @@
 <br clear="both">
 
 # Stats:
-<img align="right" height="400" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJlODU5MTNkNzlmZjFkMGJiNTI0NjBlYmZhNDhhNmFiYjMwMzZhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif](https://i.gifer.com/74pZ.gif)"  />
+<div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/74pZ" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+
 
 
 
