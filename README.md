@@ -22,6 +22,10 @@
   </a>
 </div>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Muzolas/Muzolas/output/snake.svg" alt="Snake animation" />
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Muzolas&icon=9&color=3)](https://visitcount.itsvg.in)
