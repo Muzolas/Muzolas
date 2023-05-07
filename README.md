@@ -1,8 +1,11 @@
 # About Me:
 
-<img align="right" height="140" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJlODU5MTNkNzlmZjFkMGJiNTI0NjBlYmZhNDhhNmFiYjMwMzZhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif"/>
+<img align="right" height="140" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJlODU5MTNkNzlmZjFkMGJiNTI0NjBlYmZhNDhhNmFiYjMwMzZhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif"  />
 
-<p align="left">I’m currently a student.<br>I’m looking for support for a project and internship.<br>I’m currently learning JAVA.<p>
+
+
+<h3 align="left">I’m currently a student.<br><br>I’m looking for support for a project and internship.<br><br>I’m currently learning JAVA.</h3>
+
 
   
   
